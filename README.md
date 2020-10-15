@@ -1,2 +1,2 @@
 # Lab2--Using-VRTK
-Introduction to mixxed realities 2nd lab
+Introduction to mixed realities 2nd lab
