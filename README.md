@@ -1,4 +1,4 @@
-# Lab2--Using-VRTK
+# Using-VRTK
 Introduction to mixed realities 2nd lab
 
 We created a demo with VRTK, in which we can grab a piece of chalk and draw with it by moving .
